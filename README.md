@@ -1,2 +1,2 @@
-# Tech-vibes
+ Tech-vibes
 Retialer store for devices
